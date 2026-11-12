@@ -33,7 +33,7 @@ Chọn object đầu tiên bạn tự vẽ ở `medium_instance`, trước khi x
 
 - Ảnh, vị trí và object Medium đầu tiên tự vẽ: 000000181542.jpg, vị trí [110.62,112.9,100.0,270.89], object id:6 class person
 - Class và quy tắc tôi dùng để chọn biên: Class Person và quy tắc chọn biên là mép vật thể
-- Nếu dùng gợi ý sau đó: vùng gợi ý sai/đúng, hành động sửa/giữ và lý do: …
+- Nếu dùng gợi ý sau đó: vùng gợi ý sai/đúng, hành động sửa/giữ và lý do: Nếu vùng gợi ý sai thì sẽ sửa lại để annotation trở nên chính xác hơn
 - Nếu không dùng gợi ý: ghi “không dùng”; vẫn giải thích một quyết định gán nhãn của mình.
 
 ## 3. Một lỗi tôi tìm thấy và sửa
